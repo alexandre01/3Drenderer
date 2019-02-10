@@ -2,6 +2,7 @@
 
 As the implementation is based on [Nori](https://github.com/wjakob/nori), the source code cannot be made public on GitHub. However, you'll find below renders made with my complete renderer, extended with various features.
 
+**Link to the full report: [alexandre.carlier.page/projects/3drenderer](https://alexandre.carlier.page/projects/3drenderer)**
 
 ## Textures
 
